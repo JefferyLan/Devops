@@ -8,6 +8,11 @@ edrawmax：脑图、架构、流程图等
 AS: android IDE
 VS Code： c/c++, windows开发IDE
 IDEA：java，微服务开发
+GitLab：开源，基于代码协同，集成流水线等功能，属于轻量化工具
+GitHub：功能强大，商用不开源，已被微软收购，提供插件市场
+Gerrit: Google 开源大量代码仓管理方案
+Bitbucket:代码托管工具
+
 构建工具：
 gradle：支持c/c++/java等主流语言的编译，google免费工具
 bazel：google开源工具，快速分布式构建系统，支持上亿行代码分钟级编译
@@ -25,15 +30,12 @@ Ansible：物理机或者虚拟机的分发和监控工具
 Worktile：需求、缺陷、计划协同，老牌
 Trello：老牌
 JIRA：功能强大，专注敏捷开发，提供高达插件化定制
+Confluence: Atlassian公司出品，专业的企业知识管理和协同软件工具，主要强项在富文本编辑管理，可以嵌入图片， 视频，音频等
 Ones:
-Confluence: 
-Bitbucket:
 TeamBition：轻量，编辑，已被阿里收购
 钉钉：阿里系，功能强大，复杂，没有区分场景和行业
 飞书：基于在线文档协同办公作为卖点，提供丰富场景化和行业化模板定制能力
 Redmine：老牌，开源工具，提供甘特图、燃尽图等
-GitLab：开源，基于代码协同，集成流水线等功能，属于轻量化工具
-GitHub：功能强大，商用不开源，已被微软收购，提供插件市场
 Azure：可支持中型公司的项目协同管理（5000+人）
 
 文档管理/协同工具：
